@@ -1,0 +1,51 @@
+﻿body {
+}
+#frame {
+    width:960px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#header {
+    width:960px;
+    height:260px;
+    background-color:#99FFCC;
+}
+#menu {
+    float:left;
+    height:400px;
+    width:180px;
+    background-color:#99FFCC;
+    color:#159dcc;
+    text-align:center;
+}
+#content {
+    float:left;
+    height:auto;
+    width:780px;
+    
+}
+.clear {
+    clear:both;
+}
+.baslik {
+    color:#159dcc;
+    text-decoration:none;
+}
+/*normal link görünümü*/
+a:link {
+    text-decoration: none;
+}
+/*daha önce tıklanmış bir link*/
+a:visited {
+    text-decoration: none;
+}
+/*mouse üzerine geldiğinde*/
+a:hover {
+    text-decoration: none;
+}
+/*mouse ile tıklama anında*/
+a:active {
+    text-decoration: none;
+}
